@@ -4,6 +4,7 @@
     background-size: cover;
   }
   body{
+    overflow:hidden;
     cursor: pointer;
   }
   h1
